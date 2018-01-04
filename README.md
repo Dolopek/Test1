@@ -5,7 +5,7 @@
   {
   setlocale(LC_ALL, "");
 int a;
-cout<< Proszę podać liczbę:"
+cout<< Proszę podać długość penis:"
 cin>>a;
 
 
